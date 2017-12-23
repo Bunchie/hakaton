@@ -15,4 +15,4 @@ function http(method, url, data = null, headers = {
     });
 }
 
-export default http;
+export default reqHelper;
