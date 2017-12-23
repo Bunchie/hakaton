@@ -1,7 +1,11 @@
 {
   "name": "hakaton",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "",
+=======
+  "description": "hakaton",
+>>>>>>> 7f165b597a70689f7cb7e66d77bd2142a5bd796e
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,8 +19,12 @@
   "bugs": {
     "url": "https://github.com/Bunchie/hakaton/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/Bunchie/hakaton#readme",
   "dependencies": {
     "axios": "^0.17.1"
   }
+=======
+  "homepage": "https://github.com/Bunchie/hakaton#readme"
+>>>>>>> 7f165b597a70689f7cb7e66d77bd2142a5bd796e
 }
